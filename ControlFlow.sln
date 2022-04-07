@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlFlow", "ControlFlow\ControlFlow.csproj", "{6CC20259-5B6E-485A-98A8-5280125D4EEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonalityTestSwich", "PersonalityTestSwich\PersonalityTestSwich.csproj", "{519F882B-AEAE-48C0-9A37-C021E5AF4BEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gradingif", "Gradingif\Gradingif.csproj", "{F3F297C7-435F-4639-8C03-131C8DB4677C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradingSwitch", "GradingSwitch\GradingSwitch.csproj", "{354BA1CE-CF2D-4130-99A9-2A8951C99CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CC20259-5B6E-485A-98A8-5280125D4EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CC20259-5B6E-485A-98A8-5280125D4EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CC20259-5B6E-485A-98A8-5280125D4EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CC20259-5B6E-485A-98A8-5280125D4EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{519F882B-AEAE-48C0-9A37-C021E5AF4BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519F882B-AEAE-48C0-9A37-C021E5AF4BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519F882B-AEAE-48C0-9A37-C021E5AF4BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519F882B-AEAE-48C0-9A37-C021E5AF4BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F297C7-435F-4639-8C03-131C8DB4677C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F297C7-435F-4639-8C03-131C8DB4677C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F297C7-435F-4639-8C03-131C8DB4677C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F297C7-435F-4639-8C03-131C8DB4677C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{354BA1CE-CF2D-4130-99A9-2A8951C99CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{354BA1CE-CF2D-4130-99A9-2A8951C99CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{354BA1CE-CF2D-4130-99A9-2A8951C99CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{354BA1CE-CF2D-4130-99A9-2A8951C99CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {296C95B3-5379-4D90-ADC3-AEC04DD1D743}
+	EndGlobalSection
+EndGlobal

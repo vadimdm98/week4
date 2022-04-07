@@ -1,0 +1,16 @@
+C:\Users\vadim\source\repos\ControlFlow\PersonalityTestSwich\bin\Debug\net5.0\PersonalityTestSwich.exe
+C:\Users\vadim\source\repos\ControlFlow\PersonalityTestSwich\bin\Debug\net5.0\PersonalityTestSwich.deps.json
+C:\Users\vadim\source\repos\ControlFlow\PersonalityTestSwich\bin\Debug\net5.0\PersonalityTestSwich.runtimeconfig.json
+C:\Users\vadim\source\repos\ControlFlow\PersonalityTestSwich\bin\Debug\net5.0\PersonalityTestSwich.runtimeconfig.dev.json
+C:\Users\vadim\source\repos\ControlFlow\PersonalityTestSwich\bin\Debug\net5.0\PersonalityTestSwich.dll
+C:\Users\vadim\source\repos\ControlFlow\PersonalityTestSwich\bin\Debug\net5.0\ref\PersonalityTestSwich.dll
+C:\Users\vadim\source\repos\ControlFlow\PersonalityTestSwich\bin\Debug\net5.0\PersonalityTestSwich.pdb
+C:\Users\vadim\source\repos\ControlFlow\PersonalityTestSwich\obj\Debug\net5.0\PersonalityTestSwich.csproj.AssemblyReference.cache
+C:\Users\vadim\source\repos\ControlFlow\PersonalityTestSwich\obj\Debug\net5.0\PersonalityTestSwich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\source\repos\ControlFlow\PersonalityTestSwich\obj\Debug\net5.0\PersonalityTestSwich.AssemblyInfoInputs.cache
+C:\Users\vadim\source\repos\ControlFlow\PersonalityTestSwich\obj\Debug\net5.0\PersonalityTestSwich.AssemblyInfo.cs
+C:\Users\vadim\source\repos\ControlFlow\PersonalityTestSwich\obj\Debug\net5.0\PersonalityTestSwich.csproj.CoreCompileInputs.cache
+C:\Users\vadim\source\repos\ControlFlow\PersonalityTestSwich\obj\Debug\net5.0\PersonalityTestSwich.dll
+C:\Users\vadim\source\repos\ControlFlow\PersonalityTestSwich\obj\Debug\net5.0\ref\PersonalityTestSwich.dll
+C:\Users\vadim\source\repos\ControlFlow\PersonalityTestSwich\obj\Debug\net5.0\PersonalityTestSwich.pdb
+C:\Users\vadim\source\repos\ControlFlow\PersonalityTestSwich\obj\Debug\net5.0\PersonalityTestSwich.genruntimeconfig.cache
